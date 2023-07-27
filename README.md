@@ -1,3 +1,13 @@
+# Quickstart
+
+Run the following commands to update metabase
+```
+git remote add heroku https://git.heroku.com/kaizan-metabase-staging.git
+git commit --allow-empty -m "empty commit"
+git push heroku master
+```
+
+---
 [![Metabase Logo](http://www.metabase.com/images/logo.svg)](http://www.metabase.com/)
 
 [Metabase](http://www.metabase.com/) is the easy, open source way for everyone in your company to ask questions and learn from data.
